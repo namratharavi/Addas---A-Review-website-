@@ -1,0 +1,81 @@
+<html>
+<head>
+<title> INORBIT MALL </title>
+<style>
+#mar{margin-left:20px;margin-right:20px;}
+body{background-image:url("bg1.jpg");background-attachment:fixed;background-repeat:no-repeat;background-size:100%}
+img{float:left;}
+h1{font-size:33px;background-color:#000066;color:white;padding:34.5pt;}
+h2{font-size:34px;color:#000066;font-family:Verdana;margin-left:50px;}
+h3{font-size:30px;color:#000066;font-family:Verdana;margin-left:50px;}
+p{color:#000066;font-family:Verdana;margin-left:50px;}
+a{color:red;font-family:Verdana;margin-left:70px;}
+#div{background-color:#000066;}
+#l1{color:white;}
+#div1{margin-left:100px;margin-right:100px;background-color: rgba(255,255,255,1);}
+.mars{font-size:20px;color:white;text-align:center;background-color:#333333;}
+p{font-size:25px}
+#a1{color:white;}
+#contact{font-size:34px}
+#about{font-size:34px}
+#link{font-size:25px}
+
+</style>
+</head>
+<body>
+
+<div id="mar">
+<img class="1" src="Inorbit.jpg" height="20%" ></img>
+<h1 align="center"> INORBIT MALL </h1>
+</div>
+
+<table width="100%" height="40px">
+<tr>
+<td class="mars"><a id="a1" href="home.html" title="Home">Home</a></td>
+<td class="mars"><a id="a1" href="cinema1_homepage.html" title="Cinemas">Cinemas</a></td>
+<td class="mars"><a id="a1" href="eateries_homepage.html" title="Eateries">Eateries</a></td>
+<td class="mars"><a id="a1" href="gaming.html" title="Gaming">Gaming</a></td>
+</tr>
+</table>
+<br/>
+
+<div id="div1">
+<br/>
+</br>
+<table id="t1" border="4"align="center">
+<tr>
+<th>
+<img src="Inorbit-Mall.jpg" width="600px" height="450px"></img></th></tr></table>
+</br>
+<h2 id="about">ABOUT US</h2>
+<p>Inorbit malls have universal class and appeal, and they seek to provide a one-stop destination for fashion, lifestyle, food and entertainment leading to an international experience for families.</p><p>Inorbit Malls provide an excellent walk through experience for customers. Inorbit Malls combine the knowledge of an Indian Consumer and a changing Indian market scenario in locating, designing, planning and managing retail environments. Inorbit malls have a carefully thought out mix of Retailers providing optimum choice to the consumer in shopping, entertainment, food & leisure.</p> 
+</br>
+
+<h2 align="center">INORBIT MALL</h2>
+<p class="p1">
+<table border="3" width="50%" align="center" >
+<tr>
+<th style="font-family:Comic Sans MS;font-size:15px;color:#4d004c;border-color:lime;">
+No. 75, EPIP Area, </br>
+Whitefield, Bengaluru - 560066 </br>
++91-80 67 280000 </br>
+info.whitefield@inorbit.in </br>
+</th></tr>
+</table>
+</p>
+</br>
+
+<h2 id="contact">Contact Us:</h2>
+<h3>For more information visit:</h3>
+<a id="link" href="http://www.inorbit.in/">www.inorbit.in</a>
+</br>
+<br/>
+</div> 
+</br>  
+
+</br>   
+<div id="div1" >
+<iframe class="ifram" src="review.htm" width="100%" height="150" ></iframe>
+</div>     
+</body>
+</html>

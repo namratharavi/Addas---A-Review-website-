@@ -1,0 +1,145 @@
+<html>
+<head>
+<title>Laser Tag </title>
+<style>
+  #mar{margin-left:20px;margin-right:20px;}
+ body{background-image:url('ltbg.jpg');background-size:100%;background-attachment:fixed;}
+ .content{font-size:25px;font-family:Comic Sans MS;font-variant:italics;}
+ #h10{background-color:#600080;color:white;font-family:Comic Sans MS;padding:35pt;border-radius:10px;text-align:center;}
+ #h11{color:#730099;font-family:Comic Sans MS;font-size:20pt;}
+ img{float:left;}
+ hr{border-radius:10px;color:#0000b3;padding:4pt;background-color:;border#730099-color:#e60000;}
+ #a{background-color: rgba(250,250,250,1);margin-left:150px;margin-right:150px;}
+ table{border-color:#730099;border-radius:10px;}
+ h3{color:#e60000;font-size:25px}
+ .about{font-size:25px;}
+ .name1{text-align:center;background-color:#600080;color:white;}
+ #a1{color:white;}
+.mars{font-size:20px;color:white;text-align:center;background-color:#333333;}
+#div1{margin-left:50px;margin-right:50px;background-color: rgba(255,255,255,1);}
+</style>
+</head>
+<body>
+<div id="mar">
+ <img src="laser.jpg" alt="Laser Tag" width="20%" height="21%"></img>
+ <h1 id="h10"> Laser Tag  </h1>
+ </div>
+  <table width="100%" height="40px">
+<tr>
+<td class="mars"><a id="a1" href="" title="Home">Home</a></td>
+<td class="mars"><a id="a1" href="" title="Malls">Malls</a></td>
+<td class="mars"><a id="a1" href="" title="Cinemas">Cinemas</a></td>
+<td class="mars"><a id="a1" href="" title="Eateries">Eateries</a></td>
+</tr>
+</table>
+ <div id="a">
+ <p class="content">Laser tag is a team or individual sport or recreational activity where players attempt to score points by tagging targets, typically with a hand-held infrared-emitting targeting device. Infrared-sensitive targets are commonly worn by each player and are sometimes integrated within the arena in which the game is played.Laser tag is popular with a wide range of ages. When compared to paintball, laser tag is painless because it uses no physical projectiles, and indoor versions may be considered less physically demanding because most indoor venues prohibit running or roughhousing.<br/><br/>
+ Here is a list of Laser Tag places in Bangalore.</p>
+ 
+ <table border="5" width="100%">
+ 
+ <tr>
+ <th align="center">Laser Tag Centres</th>
+ <th align="center">Details</th>
+ </tr>
+ 
+ <tr>
+ <td align="center"><a href="#LASER_REPUBLIC"><img src="laser republic.jpg" width="100%"  height="100%" title="LASER REPUBLIC" /></a></td>
+ <td align="center">
+ <a href="#LASER_REPUBLIC"> <p><h3 >LASER REPUBLIC</h3></a>
+ Address: #1, 14th Main 17th Cross, HSR Layout Sector 7 Bangalore - 560102, India
+ </p></td>
+ </tr>
+ 
+ <tr>
+ <td align="center"><a href="#iAMGAME" ><img src="iamgame.jpg" width="100%" height="100%" title="iAMGAME" /></a></td>
+ <td align="center">
+ <a href="#iAMGAME"><p><h3 >iAMGAME</h3></a>
+ <a href="#iAMGAME"><p><h4 >1.iAMGAME Koramangala </h4></a>
+ Address:818,80 feet road, 8th block koramangala, bangalore 560095.</p>
+ <a href="#iAMGAME"><p><h4 >2.iAMGAME Kammanahalli</h4></a>
+ Address:315, 3rd floor, 7th main, HRBR layout, 2nd block, kammanahalli, bangalore 650043</p>
+ <a href="#iAMGAME"><p><h4 >3.iAMGAME Sarjapur </h4></a>
+ Address:75,central jail road, opposite silverwood regency apartments, kasavanahalli bangalore 560035.</p>
+ </td>
+ </tr>
+ 
+ <tr>
+ <td align="center"><a href="#LASER CASTLE "><img src="laser castle.jpg" width="100%" height="100%" title="LASER CASTLE " /></a></td>
+ <td align="center">
+ <a href="#LASER CASTLE "><p><h3 >LASER CASTLE</h3></a>
+ Address:#3, 80 Feet Road,HAL 2nd Stage,Indiranagar,Bangalore, India.
+ </p></td>
+ </tr>
+ 
+ <tr>
+ <td align="center"><a href="#TALK_TO_THE_HAND"><img src="talk to the hand.jpg" width="100%" height="100%" title="TALK TO THE HAND" /></a></td>
+ <td align="center">
+ <a href="#TALK_TO_THE_HAND"><p><h3 >TALK TO THE HAND</h3></a>                                            
+ Address:No. 653, 2nd Floor, HM Zeta, 11th Main,Sri Aurobindo Marg, 4th Block,Jayanagar (next to Mc Donalds),Bangalore, India 560011
+ </p></td>
+ </tr>
+ </table> 
+ <br/>
+ </div>
+ <div id="a">
+ 
+<h3 class="name1" id="LASER_REPUBLIC">LASER REPUBLIC</h3>
+<img src="laser republic.jpg" width="100%"  height="600px" title="Play arena" /><br/>
+<p class="about">Laser Tag is a multi player video game played in a theme based arena. Laser tag is a multiplayer game played in a dark arena. Players wear a battle vest and hold a laser gun to tag other players to accomplish a team mission. There are multiple game play missions as listed below. The most common being Team Death Match.<br/><br/>
+Address: #1, 14th Main 17th Cross, HSR Layout Sector 7 Bangalore - 560102, India<br/><br/>
+Email: laserrepublic@gmail.com<br/><br/>
+Phone: +91 8095952250</p>
+</br>
+</div>
+<div id="a">
+<h3  class="name1" id="iAMGAME">iAMGAME</h3>
+<img src="iamgame.jpg" width="100%" height="600px"  title="Patel's Inn" /><br/>
+<p class="about">Galt Entertainment PVT Ltd, Bangalore, created and owns the trade mark, iAMGAME.We are the ONLY country wide dealer, for Lazer Runner, the World's No 1, Laser Tag equipment manufacturer, based out of Canada.<br/><br/>
+1. iAMGAME Koramangala :<br/>
+
+This is our first and fore-most state of the art gaming arena. We have 2 floors, of non-stop excitement. Our gaming arena, on the 2nd floor, has the cash/ reservation counter, café and the gaming arena, while our Laser tag arena takes up the entire 3rd floor.<br/><br/>
+Address:818,80 feet road, 8th block koramangala, bangalore 560095.<br/><br/>
+
+2. iAMGAME Kammanahalli :<br/>
+
+This is our 2nd location, which is dedicated only for Laser Tag. We do not have any other games here.<br/><br/>
+Address:315, 3rd floor, 7th main, HRBR layout, 2nd block, kammanahalli, bangalore 650043<br/><br/>
+
+3. iAMGAME Sarjapur :<br/>
+
+Our third location is part of large Day Out Arena, who is our host. Located in Sarjapur, spread over several acres, this place is good for a whole day out. The attractions include bowling, soccer and several other games, besides Laser Tag, which ofcourse, is everyone's favorite.<br/><br/>
+Address:75,central jail road, opposite silverwood regency apartments, kasavanahalli bangalore 560035.</p>
+
+</br>
+</div>
+<div id="a">
+<h3  class="name1" id="LASER CASTLE">LASER CASTLE</h3>
+<img src="laser castle.jpg" width="100%" height="600px"  title="LASER CASTLE"/><br/>
+<p class="about">Great activity for Employee Engagement or group sessions. Just like the latest computer games, guests will receive their mission briefing, intel on the enemy and tactics. You will Battle against others to fulfill your mission objectives as a team. There is no paint or projectiles involved, so no masks needed or big bills at the end of the session. <br/></br>
+
+Address:#3, 80 Feet Road,HAL 2nd Stage,Indiranagar,Bangalore, India.<br/><br/>
+Phone: +91-9886-786039</p>
+</div>
+<br/>
+<div id="a">
+<h3  class="name1" id="TALK_TO_THE_HAND">TALK TO THE HAND</h3>
+<img src="talk to the hand.jpg" width="100%" height="600px" title="TALK TO THE HAND"  /><br/>
+<p class="about">Welcome to 'Talk to the Hand', an exciting Lazer Tag battledrome now open in Jayanagar, Bangalore.<br/><br/>
+
+What's more, state of the art gaming consoles and a hip cafe to hangout with your buddies or grab a bite while you wait your turn.<br/><br/>
+
+It's also a cool place to celebrate your birthday parties, organise team building activities and much more.<br/><br/>
+Address:No. 653, 2nd Floor, HM Zeta, 11th Main,Sri Aurobindo Marg, 4th Block,Jayanagar (next to Mc Donalds),Bangalore, India 560011<br/><br/>
+Phone: 099 45 406090</p>
+
+</br>
+</div>
+<br/>
+<div id ="a">
+<div id="div1" >
+<iframe class="ifram" src="review.htm" width="100%" height="150" ></iframe>
+</div>
+</div> 
+</body>
+</html>

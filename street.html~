@@ -1,0 +1,222 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+  body{background-image:url("brahmincoffee.jpg");background-attachment:fixed;background-repeat:no-repeat;background-size:100%;}
+  .content{font-size:20px;font-family:Comic Sans MS;}
+  .end_content{font-size:25px;text-align:center;font-family:Comic Sans MS;}
+  .start_content{font-size:25px;text-align:center;font-family:Comic Sans MS;}
+  h1{text-align:center;font-size:35px;background-color:#990000;padding:10pt;color:white;}
+  caption{font-size:24px;font-weight:bolder;background-color:#990000;margin-left:300px;margin-right:300px;border-radius:20px;color:white;}
+  #d1{margin-left:25px;margin-right:25px;background-color: rgba(255,255,255,0.6);}
+#div1{margin-left:50px;margin-right:50px;background-color: rgba(255,255,255,1);}
+#a1{color:white;}
+.mars{font-size:20px;color:white;text-align:center;background-color:#333333;}
+ </style>
+</head>
+<body>
+<div id="d1">
+ <h1>Street Food</h1>
+ <table width="100%" height="40px">
+<tr>
+<td class="mars"><a id="a1" href="eateries_homepage.html" title="Home">Home</a></td>
+<td class="mars"><a id="a1" href="malls_home.html" title="Malls">Malls</a></td>
+<td class="mars"><a id="a1" href="cinema1_homepage.html" title="Cinemas">Cinemas</a></td>
+<td class="mars"><a id="a1" href="" title="Gaming">Gaming</a></td>
+</tr>
+</table>
+ <p class="start_content">Bangalore-An Epicure's Paradise. Take a walk during the night through the streets of Bangalore and the pleasant aroma of the gourmet food that is prepared here every moment, is sure to leave you in awe. The lovely food prepared in the streets of Bangalore is no less tasty than the local and international cuisines at five-star restaurants. The shops here do not have good seating arrangements-agreed, but eating here in the crescent moonlight with a cool breeze for company is an experience like no other</p>
+ 
+ <p class="start_content">Have you ever noticed how street food is never something that people outgrow? We even hear about humans outgrowing chocolate (which is rather unthinkable!) but never street food. And as an ode to the food that has everyone by the roots of their taste buds, here are 14 excellent places for street food in Bangalore.</p>
+</div>
+<div id="d1"> 
+ <table border="2" width="100%">
+ <caption>Hari Super Sandwich, Jayanagar</caption>
+ <tr> <td class="pic" width="50%" height="500px"> <img src="harisandwich.jpg" alt="hari sandwich"/> </td> 
+      <td class="content" width="50%" height="500px"> 
+      Even though they serve sandwiches in different varieties, it's the chocolate sandwich that has put Hari Super Sandwich on the map for food lovers. Aside from the taste element,the reasonable pricing also adds to the endearment factor. Talking about food lovers, I wonder if there are actually people who don't love food. I shudder to think about it!<br/><br/>
+      The Chocolate Sandwich!! Yes you read it right, that's what it is famous for. This place at Jayanagar is one of the finest street food joints in Bangalore for having sandwiches and tasty chats. They serve a variety of sandwiches and chats which are as economical as they are healthy. Located nearby is a Lassi Corner which serves you sweet Lassi to drink after you're done having your food at the Sandwich Zone.<br/><br/>
+      Price for two: Rs. 200 (approx)<br/><br/>
+      Location: 177/A-44, 22nd Cross, 3rd Block, Jayanagar, Bangalore </td> </tr>  
+ </table>
+ 
+ <br/><br/>
+ 
+ <table border="2" width="100%">
+ <caption>Brahmin's Coffee Bar, Basavanagudi</caption>
+ <tr> <td class="content" width="50%" height="500px"> 
+       Another place that you can depend on for South Indian fare-whether it be the crispy vadas or the rice idlis or kesaribath, never fear the word 'disappointment' while you are here.<br/><br/>
+       The best in its class of traditional south Indian food can be found in the Brahmin's Coffee Bar at Basavanagudi in Bangalore. It offers steamingly hot rice idlies which are quite soft and the crispy vadas that you just can't stop at one plate. They also serve a variety of dishes here but nothing beats the Idly-Vada combo. Coffee,tea and kesaribath are some of the other popular foods that are served here.<br/><br/>
+       Price for two: Rs. 100(approx)<br/><br/>
+       Location: Ranga Rao Road, Near Shankar Math, Shankarpuram, Basavanagudi Area, Bangalore</td>
+
+      <td class="pic" width="50%" height="500px"> <img src="brahmincoffee.jpg" alt="Brahmin's Coffee Bar"/> </td> </tr>  
+ </table>
+
+ <br/><br/>
+ 
+ <table border="2" width="100%">
+ <caption>Dadar Vada Pav, Indiranagar</caption>
+ <tr> <td class="pic" width="50%" height="500px"> <img src="dadarvada-paav.jpg" alt="dadar vada pav"/> </td> 
+ 
+      <td class="content" width="50%" height="500px"> 
+      Different varieties of vada pav. Does that excite you? How about different varieties of some of the best vada pav in Bangalore. Yeah, thought so! The spectrum of the snack on offer includes schezwan, paneer, aloo and more. Even though the name gives you the idea of vada pav alone, the burgers and french fries they serve are pretty good as well.<br/><br/>
+      The name itself clearly indicates that this stall at Indiranagar serves one of the best vada pavs in Bangalore. There are a number of flavors for the vada pav including paneer, schezwan, aloo and many more.<br/><br/>
+      They also serve yummy burgers and french fries too. The prices are quite low and I personally recommend the Veg Tikki Vada Pav which is one of the best street food in Bangalore.<br/><br/>
+      Price for two: Rs. 150(approx)<br/><br/>
+      Location: 3037, 8th Main, HAL 2nd Stage, Off 80 Feet Road, Indiranagar, Bangalore </td> </tr>  
+ </table>
+ 
+ <br/><br/>
+ 
+ <table border="2" width="100%">
+ <caption>Rakesh Kumar Pani Puri Stall, Jayanagar</caption>
+ <tr> <td class="content" width="50%" height="500px"> 
+ This small shop serves some of the best pani puris in Bangalore. And in a city where there are more than enough options for the famous street food, that's no simple feat to pull off. The other snacks you can enjoy here include aloo chat, dahi puri and paapdi chat.<br/><br/>
+ Puri-Gol Gappa-Puchka or whatever you call it, this joint gives you every reason to love every name and the essence in its taste. And street food in Bangalore is incomplete without it. Rakesh Kumar Pani Puri is a small stall located at Jayanagar 3rd block in Bangalore exclusively for Chats and Pani Puri. Taste the delicious Pani Puri here and I'm sure you will become a regular here. Apart from pani puri, they also serve other snacks like dahi puri, aloo chat and paapdi chat.<br/><br/>
+ Location: 8th F Main Road, 3rd Block, Jayanagar, Bangalore</td>
+
+      <td class="pic" width="50%" height="500px"> <img src="rakeshkumarpani-puri-gol-gappe.jpg" alt="Rakesh Kumar Pani Puri Stall"/> </td> </td> </tr>  
+ </table>
+ 
+ <br/><br/>
+ 
+ <table border="2" width="100%">
+ <caption>Central Tiffin Room, Malleswaram</caption>
+ <tr> <td class="pic" width="50%" height="100px"> <img src="centraltiffinmasaladosa.jpg" alt="Central Tiffin Room"/> </td> 
+ 
+      <td class="content" width="50%" height="500px"> 
+      Dosa lovers swear by the name of Central Tiffin Room. With varieties of mouth-watering dosas and also idly, vada and poori sagu that make South India endearing to many, this is one place where your sense of taste has nowhere to go but north.<br/><br/>
+      Serving utterly delicious Butter Masala Dosa continuously to a huge number of customers is no child's play. But CTR at Margosa Road, Malleshwaram has done this effortlessly and brilliantly for over six decades and is thus, a delight for Dosa lovers. Even to this day, this Tiffin Room is one of the best places to have South Indian Street Food in Bangalore. Apart from variety of dosas they also serve idly-vada, kesribath and the poori sagu. There are also other shops which serve ice creams, chats and other stuff around the place.<br/><br/>
+      Price for two: Rs. 100(approx)<br/><br/>
+      Location: 7th Cross, Margosa Road, Malleshwaram, Bangalore </td> </tr>  
+ </table>
+  
+ <br/><br/>
+ 
+ <table border="2" width="100%">
+ <caption>V V Puram Food Street</caption>
+ <tr> <td class="content" width="50%" height="500px"> 
+ To savour some delectable street food without burning a hole in your pocket, you can't go wrong with V V Puram Food Street. Whether it be a hot and sumptuous masala dosa or the Dal Holige rich in ghee, you can have your stomach's fill and heart's content here. A number of stalls offering some fantastic street food from the entire Indian varieties-you got to say that Bangalore does rock.<br/><br/>
+ From the hot and spicy Masala Dosa to the sweet and sublime Dal Holige drenched in pure ghee, there is everything on this Food Street in Bangalore that you may want to eat. The rose gulkand enriched with the goodness of pure Honey and white Butter is one thing you should not miss at the Shivanna Gulkand Center. The food here is also quite economical and one of the best in Bengaluru. There are a number of stalls here including the Pav Bajji stall, the Sweet Corn stall, Manchurian stall to name a few.
+</td>
+
+      <td class="pic" width="50%" height="500px"> <img src="vvpuramsweet-Corn.jpg" alt="V V Puram Food Street" width="100%" height="500px"/> </td> </tr>  
+ </table>
+ 
+ <br/><br/>
+ 
+ <table border="2" width="100%">
+ <caption>Sri Sairam's Chats and Juice, Malleshwaram</caption>
+ <tr> <td class="pic" width="50%" height="500px"> <img src="sairams.jpg" alt="Sri Sairam's Chats and Juice" /> </td> 
+ 
+      <td class="content" width="50%" height="500px"> 
+      For a whole lot of chat varieties to take your food-savouring experience to a whole new level, try this place. Aside from the oh-so-popular Sai Ram's Special you have the option to give yourself a snacky treat with wafer chats, disco chat, crazy masala and more. To sweeten things more, they also sell home-made chocolates made in Ooty.<br/><br/>
+      Be it the famous Sai Ram's Special or the mouth watering dahi puri, this chat stall at Margosa Road, Malleshwaram has everything more to offer than you can ever expect. The person serving here always has a warm and heartily smile to add a bit of extra flavor to your already delicious food. They serve a numerous variety of chats which includes wafers chat, chips masala, disco chat, crazy masala and a lot more. It now also sells specially prepared home-made chocolates from Ooty. Ans yes, you miss the extra whole bunch of fun if you forget to ask for a plain puri soaked in pani and the sweet mixture at the end.<br/><br/>
+     Price for two: Rs. 100(approx)<br/><br/>
+     Location: 83, 2nd Temple Street, 15th Cross, Near Kadu Malleshwaram Temple, Malleshwaram, Bangalore</td> </tr>  
+ </table>
+   
+ <br/><br/>
+ 
+ <table border="2" width="100%">
+ <caption>Shahi Darbar, Yeshawanthpur</caption>
+ <tr> <td class="content" width="50%" height="500px"> 
+ Rolls are quaint objects. They come rolled up and make your taste buds feel stretched out in a mat that is laden with all the taste it can take. The pricing is quite reasonable here and the best rolls to have are double paneer roll and the double chicken roll.<br/><br/>
+ Located very next to the M S Rammiah ground in Mattikere-Yeshawanthpur, this chat stall offers yummy and extra delicious rolls which are quite low priced and absolutely delightful. This street food place is often crowded by students for its mouthwatering food served and the quality maintained here. Some of the best rolls are double paneer roll, double egg chicken roll and the simplest veg roll.<br/><br/>
+ Price for two: Rs. 150(approx)<br/><br/>
+ Location: Pipeline Road, Adjacent to MS Ramaiah Ground, Mathikere, New BEL Road, Bangalore</td>
+
+      <td class="pic" width="50%" height="500px"> <img src="Shahi-Darbar.jpg" alt="Shahi Darbar" width="100%" height="500px"/> </td> </tr>  
+ </table>
+  
+ <br/><br/>
+ 
+ <table border="2" width="100%">
+ <caption>Khan Saheb Grills and Rolls, Indiranagar</caption>
+ <tr> <td class="pic" width="50%" height="500px"> <img src="khangrills.jpg" alt="Khan Saheb Grills and Rolls" /> </td> 
+ 
+      <td class="content" width="50%" height="500px"> 
+      You know where you go for some super-awesome rolls in Bangalore? It's to the ground floor of the Sri Siva Sai complex in Indiranagar, for that's where Kahn Saheb is situated. Serving both veg and non-veg, their 'Best of' list features mixed vegetable tikka roll, mutton buna, babycom tikka roll and many more.<br/><br/>
+      Located at the ground floor of the Sri Shiva Sai Complex in Indiranagar, this is one of the best street food places in Bangalore to have delicious and crunchy rolls and grills. Both vegetarian and non-vegetarian street foods are served here and the prices are extremely reasonable. Some of the famous items served are Mixed Vegetable tikka Roll, paneer mushroom, babycorn tikka roll, mutton buna and many others with exclusive add ons like kathi wrap, single egg roll, etc.<br/><br/>
+      Price for two: Rs. 300(approx)<br/><br/>
+      Location: Ground Floor, Sri Shiva Sai Complex, 13th Cross, 7th Main, 2nd Stage, HAL, Off Double Road, Indiranagar, Bangalore</td> </tr>  
+ </table>
+    
+ <br/><br/>
+ 
+ <table border="2" width="100%">
+ <caption>Karnataka Bhel House, Basavanagudi</caption>
+ <tr> <td class="content" width="50%" height="500px"> 
+ This place is quite popular due to the fact that they serve fantastic chats which you can enjoy in the outdoor seating area in the evenings. You can count on this pure veg outlet for hearing your lips smack on great sev puri, masala puri, aloo dahi puri and more.<br/><br/>
+ Hop in to this purely vegetarian and outdoor seating famous chat stall located at Uma Theatre Road, Chamarajapet in Basavanagudi during the evening to enjoy the warm sunset with some utterly delicious street food in Bangalore. The pricing here is economical and pocket friendly. Some of the best dishes served here are the aloo dahi puri, sev puri, masala puri and a few more.<br/><br/>
+ Price for two: Rs. 100(approx)<br/><br/>
+ Location: 29, 3rd Main Road, 3rd Cross, Bazaar Street, Uma Theatre Road, Chamarajpet, Basavanagudi, Bangalore</td>
+
+      <td class="pic" width="50%" height="500px"> <img src="karnatakabhel-puri.jpg" alt="Karnataka Bhel House" width="100%" height="500px"/> </td> </tr>  
+ </table>
+   
+ <br/><br/>
+ 
+ <table border="2" width="100%">
+ <caption>Tikki Tikki, Koramangala</caption>
+ <tr> <td class="pic" width="50%" height="500px"> <img src="Tikki-Tikki-Source-zomato.com_.jpg" alt="Tikki Tikki" /> </td> 
+ 
+      <td class="content" width="50%" height="500px"> 
+      The name is inspired by the tikki poori they serve, which is something of a masterpiece. Aside from that you can also try mudpie tikki, chocolate tikki or the paneer tikki, all of them especially fine.<br/><br/>
+      The puzzling name itself indicates that this chat stall situated in Koramangala is a unique one serving lovely chats and other food. The name comes from the delicious and special food tikki poori served here which is one of the best street food in Bangalore. Stop here for a quick bite and I am sure this taste is going to make you addicted to the yummy food served here.<br/><br/>
+      Some of the best ones to eat are the chocolate tikki, mudpie tikki, masala tikki and paneer tikki.<br/><br/>
+      Price for two: Rs. 250(approx)<br/><br/>
+      Location: 404, Ground Floor, 1st C Cross, 7th Block, Koramangala, Bangalore</td> </tr>  
+ </table>
+     
+ <br/><br/>
+ 
+ <table border="2" width="100%">
+ <caption>Spicy Corner, Jeevanbheema Nagar</caption>
+ <tr> <td class="content" width="50%" height="500px"> 
+ I'll tell you one thing-they didn't put that name just for the sake of having a name. The food is indeed spicy but not any less tasty for that. Some of the dishes that you can go "oof-off! it's so spicy my tongue's on fire!" over are sav dahi puri, tava paratha and ghobi chilli. Bring me some Coke, man!<br/><br/>
+ Last but not the least, this food stall at Jeevanabheema nagar serves one of the best spicy street food in Bangalore. From the spicy hot tava paratha to the delicious dahi puri, this stall serves a number of lovely dishes which are reasonably priced and equally yummy. Some of the best food served are paneer fried rice, sav dahi puri, szechwan noodles, baby corn manchurian, aaloo paratha and gobhi chilli.<br/><br/>
+ Price for two: Rs. 250(approx)<br/><br/>
+ Location:1650, 10th Main Road, Jeevanbheema Nagar, Bangalore</td>
+
+      <td class="pic" width="50%" height="500px"> <img src="Noodles.jpg" alt="Spicy Corner" width="100%" height="500px"/> </td> </tr>  
+ </table>
+    
+ <br/><br/>
+ 
+ <table border="2" width="100%">
+ <caption>Chatar Patar, Jayanagar</caption>
+ <tr> <td class="pic" width="50%" height="500px"> <img src="chatarpatarpav-bajji.jpg" alt="Chatar Patar" /> </td> 
+ 
+      <td class="content" width="50%" height="500px"> 
+      Wow! That's a name worth visiting once. The variety of food served here is so huge that you will be puzzled to choose the right one to eat. From the bhel puri to the black current gapagap, every single dish served here is something unique and extra delicious. This stall is in the 3rd Block of Jayanagar and serves dishes that are mostly of North Indian taste. Some of the rare and lovely dishes served here are litchi pani puri, tasty twister chat, khatta meetha ghapagap, chowpathi pav bhaji and the best of all being the Ahmedabad dabeli.</td> </tr>  
+ </table>
+      
+ <br/><br/>
+ 
+ <table border="2" width="100%">
+ <caption>Puchka's, Marathahalli</caption>
+ <tr> <td class="content" width="50%" height="500px"> 
+ Situated in the Silver Spring Layout, this place offers some Indori food par excellence. Do try their hot dogs for it's some kind of magic. The price is relatively high but the super-hygiene and the wonderful taste more than justify it.<br/><br/>
+ After some desi South Indian dishes and some delicious chats, its time to head to taste some lovely Indori food. This stall is located near the Purva Rivera Apartments at Silver Spring Layout in Marathahalli, Bangalore. The price here are relatively high compared to the ones told before but, it is in no match to the wonderful taste of the food served and the hygiene maintained here. Some of the famous dishes served here are the hot dogs, puchkas and many more.<br/><br/>
+ Price for two: Rs.200(approx)<br/><br/>
+ Location: Silver Springs Layout, Near Spice Garden Restaurant, Marathahalli, Bangalore</td>
+
+      <td class="pic" width="50%" height="500px"> <img src="puchkas.jpg" alt="Puchkas" width="100%" height="500px"/> </td> </tr>  
+ </table>
+ </div>
+ <br/>
+ <div id="d1">
+ <p class="end_content">Street food is definitely THE democratic food of India. Take any state and the majority loves it. And with these amazing places for street food in Bangalore, you have more reasons to love it.</p>
+ 
+ <p class="end_content">Overall, these are some of the best and handpicked Street Food in Bangalore. Wherever you go, whenever you go and with whoever you go, one thing is for sure-the experience of a walk in the cool breeze and having some lovely food in the famous 'Food Streets of Bangalore' is something that will give you overwhelming joy and extreme happiness. So head into the food streets of Bangalore and enjoy the tasty and yummy food served and have a nice time there.</p>
+ </div>
+<div id="d1"> 
+ </br>   
+<div id="div1" >
+<iframe class="ifram" src="review.htm" width="100%" height="150" ></iframe>
+</div>
+</div>
+</body>
+</html>

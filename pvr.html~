@@ -1,0 +1,125 @@
+<html>
+<head>
+<title> PVR CINEMAS </title>
+<style>
+#mar{margin-left:20px;margin-right:20px;}
+body{background-image:url("p.jpeg");background-attachment:fixed;background-repeat:no-repeat;background-size:100%}
+img{float:left;}
+h1{font-size:33px;background-color:#4d004c;color:white;padding:34.5pt;}
+h2{font-size:34px;color:#4d004c;font-family:Verdana;margin-left:50px;}
+h3{font-size:30px;color:#4d004c;font-family:Verdana;margin-left:50px;}
+p{color:#4d004c;font-family:Verdana;margin-left:50px;}
+a{color:red;font-family:Verdana;margin-left:70px;}
+#div{background-color:#4d004c;}
+#l1{color:white;}
+#div1{margin-left:100px;margin-right:100px;background-color: rgba(255,255,255,1);}
+#a1{color:white;}
+.mars{font-size:20px;color:white;text-align:center;background-color:#333333;}
+p{font-size:25px}
+#contact{font-size:34px}
+#about{font-size:34px}
+#link{font-size:25px}
+
+</style>
+</head>
+<body>
+
+<div id="mar">
+<img class="1" src="pl.jpg" height="20%" ></img>
+<h1 align="center">PVR CINEMAS</h1>
+</div>
+
+
+<table width="100%" height="40px">
+<tr>
+<td class="mars"><a id="a1" href="" title="Home">Home</a></td>
+<td class="mars"><a id="a1" href="" title="Malls">Malls</a></td>
+<td class="mars"><a id="a1" href="" title="Eateries">Eateries</a></td>
+<td class="mars"><a id="a1" href="" title="Gaming">Gaming</a></td>
+</tr>
+</table>
+
+</br>
+
+<div id="div1">
+<br/>
+<br/>
+<table id="t1" border="4"align="center">
+<tr>
+<th>
+<img src="pvr.jpg" height="500px" width="600px" ></img></th></tr></table>
+</br>
+<h2 id="about">ABOUT US</h2>
+<p> PVR Cinemas is a cinema chain in India. The company, which began as a joint venture agreement between Priya Exhibitors Private Limited and Village Roadshow Limited in 1995 with 60:40 ratio, began its commercial operations in June 1997.</p>
+</br>
+
+
+<h2 align="center">PVR</h2>
+<p class="p1">
+<table border="3" width="50%" align="center" >
+<tr>
+<th style="font-family:Comic Sans MS;font-size:15px;color:#4d004c;border-color:lime;">
+The Forum Mall,<br/>
+21-22, Adugodi Main Road,<br/>
+Koramangala, Bengaluru, Karnataka 560095<br/>
+</th></tr>
+</table>
+</br>
+
+<table border="3" width="50%" align="center" >
+<tr>
+<th style="font-family:Comic Sans MS;font-size:15px;color:#4d004c;border-color:lime;">
+Orion Mall, <br/>
+3rd Floor, Brigade Gateway,<br/>
+Malleshwaram East, Bengaluru, Karnataka 560001<br/>
+</th></tr>
+</table>
+</br>
+
+<table border="3" width="50%" align="center" >
+<tr>
+<th style="font-family:Comic Sans MS;font-size:15px;color:#4d004c;border-color:lime;">
+Kalyan mandap- <br/>
+Kld-Blr Nuakhai,<br/>
+HSR Layout 5th Sector, <br/>
+Bengaluru, Karnataka<br/>
+</th></tr>
+</table>
+</br>
+
+<table border="3" width="50%" align="center" >
+<tr>
+<th style="font-family:Comic Sans MS;font-size:15px;color:#4d004c;border-color:lime;">
+Soul Space Arena Mall<br/>
+5th Floor, Above Total, <br/>
+Belandur Junction, Outer Ring Road,<br/>
+Opposite EMC Square, Bengaluru, Karnataka 560037<br/>
+</th></tr>
+</table>
+</br>
+
+<table border="3" width="50%" align="center" >
+<tr>
+<th style="font-family:Comic Sans MS;font-size:15px;color:#4d004c;border-color:lime;">
+Devasandra Industrial Estate,<br/>
+Krishnarajapura, <br/>
+Bengaluru, Karnataka 560048<br/>
+</th></tr>
+</table>
+</br>
+
+
+<h2 id="contact">Contact Us:</h2>
+<h3>For more information visit:</h3>
+<a id="link" href="https://www.pvr.com/">www.pvr.com</a>
+</br>
+<br/>
+</div> 
+<br/>
+
+<div id="div1" >
+<iframe class="ifram" src="review.htm" width="100%" height="150" ></iframe>
+</div>
+ 
+</body>
+</html> 

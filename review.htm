@@ -1,0 +1,85 @@
+<html>
+<head>
+<style>
+.name{text-align: center;}
+#x{
+    width:150px;
+    height: 40px;
+    background-color:blue;
+    line-height: 20px;
+    padding-bottom: 2px;
+    vertical-align: middle;
+    font-family: "Lucida Grande", Geneva, Verdana, Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    text-transform: none;
+    border:1px solid;
+}
+</style>
+</head>
+<body>
+<div class="name">
+<input id="x" type="button" value="ADD REVIEW" onClick="update()"/></h1>
+</div>
+<script type="text/javascript">
+function update()
+{  var k=document.createElement("div");
+   k.setAttribute("class","update");
+   
+   var a =window.prompt("enter");
+   var el=document.createElement("p");el.id="pp";
+   var txt=document.createTextNode(a);
+   el.appendChild(txt);
+   k.appendChild(el);
+   document.body.appendChild(k);
+   el.appendChild(document.createElement("br"));
+
+   var l=document.createElement("input");l.id="i";
+   l.setAttribute("type","button");
+   l.setAttribute("value","LIKE 0");l.onclick=like;
+   //l.setAttribute("onClick","like()");
+   el.appendChild(l);
+   k.appendChild(el);
+   document.body.appendChild(k);
+
+   var m=document.createElement("input");m.id="i";
+   m.setAttribute("type","button");
+   m.setAttribute("value","COMMENT");
+   m.onclick=comment;
+   el.appendChild(m);
+   k.appendChild(el);
+   document.body.appendChild(k);
+   el.appendChild(n);
+   k.appendChild(el);
+   document.body.appendChild(k);
+}
+function like()
+{ 
+  var c = this.value.split(" ");
+  this.value = "LIKE " +(parseInt(c[1])+1);  
+}
+function comment()
+{  var d = window.prompt("enter the comment");
+   var p=document.createElement("p");p.id="l";
+   var txt=document.createTextNode(d);
+   var j=document.createElement("input");
+   j.setAttribute("type","button");
+   j.setAttribute("value","REPLY");
+   j.onclick=reply;
+   p.appendChild(txt);
+   p.appendChild(j);
+   this.parentNode.appendChild(p);
+   document.body.div.appendChild(p);
+}
+function reply()
+{
+   var d = window.prompt("enter the comment");
+   var p=document.createElement("p");p.id="t";
+   var txt=document.createTextNode(d);
+   p.appendChild(txt);
+   this.parentNode.appendChild(p);
+   document.body.div.appendChild(p);
+}
+</script>
+</body>
+</html>
+  
