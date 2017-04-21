@@ -1,0 +1,95 @@
+<html>
+<head>
+<style>
+#mar{margin-left:20px;margin-right:20px;}
+body{background-image:url("2.jpg"); background-attachment:fixed;}
+#h10{background-color:#0000b3;color:white;font-family:Comic Sans MS;padding:35pt;border-radius:10px;text-align:center;}
+#h11{color:#e60000;font-family:Comic Sans MS;font-size:20pt;}
+img{float:left;}
+hr{border-radius:10px;color:#0000b3;padding:4pt;background-color:#0000b3;border-color:#e60000;}
+#a{background-color: rgba(250,250,250,1);margin-left:150px;margin-right:150px;}
+table{border-color:#0000b3;border-radius:10px;}
+h3{color:#e60000;font-family:Comic Sans MS;}
+#div1{margin-left:50px;margin-right:50px;background-color: rgba(255,255,255,1);}
+#a1{color:white;}
+.mars{font-size:20px;color:white;text-align:center;background-color:#333333;}
+.content{font-size:35px}
+</style>
+</head>
+<body>
+<div id="mar">
+<img src="1.jpg" width="20%" height="20%"></img>
+<h1 id="h10"> Go Bowling </h1>
+</div>
+ <table width="100%" height="40px">
+<tr>
+<td class="mars"><a id="a1" href="gaming.html" title="Home">Home</a></td>
+<td class="mars"><a id="a1" href="malls_home.html" title="Malls">Malls</a></td>
+<td class="mars"><a id="a1" href="cinema1_homepage.html" title="Cinemas">Cinemas</a></td>
+<td class="mars"><a id="a1" href="" title="Eateries">Eateries</a></td>
+</tr>
+</table>
+<br/>
+<div id="a">
+
+<p class="content">Can you bowl like a boss? Like making consecutive strikes and becoming the ultimate bowling game master? Then, the go bowling centers are the best places for you to hangout!  </p>
+<hr>
+<table border="5" width="100%">
+<tr>
+<th align="center">Go Bowling Centres</th>
+<th align="center">Address</th>
+</tr>
+<tr>
+<td align="center" height="300px" width="400px"><a href=""><img src="jpnagargobowling.jpg" width="100%" height="100%" /></a></td>
+<td align="center">
+ <p><h3>J.P Nagar</h3>
+Located in: Gopalan Innovation Mall</br>
+</br>
+Address:</br> 
+   &nbsp;Bannerghatta Main Rd,</br>
+   3rd Phase,</br> 
+   J P Nagar,</br>
+   Bengaluru, Karnataka 560078
+   </br>
+
+</p></td>
+</tr>
+<tr>
+<td align="center" height="300px" width="400px"><a href=""><img src="gopalan123.jpg" width="100%" height="100%" /></a></td>
+<td align="center">
+<p><h3>Sirsi road:</h3>
+Located in: Gopalan Legacy Mall</br>
+</br>
+Address:</br>
+   &nbsp;#148, Sirsi Road,</br>
+   Chamrajpet,</br>
+   Bengaluru, Karnataka 560026
+   </br>
+</p></td>
+</tr>
+<tr>
+<td align="center" height="300px" width="400px"><a href=""><img src="download.jpg" width="100%" height="100%" /></a></td>
+<td align="center">
+<p><h3>Old Madras Road</h3>
+Located in: Gopalan Signature Mall</br>
+</br>
+Address:</br>
+   &nbsp4th Floor,</br>
+   Goapal Signature Mall,</br>
+   Old Madras Road,</br>
+   Rajana Colony,</br>
+   C V Raman Nagar,</br>
+   Bengaluru, Karnataka 560093
+   </br>
+</p></td>
+</tr>
+</table>
+</br>
+</br>
+<hr>
+<div id="div1" >
+<iframe class="ifram" src="review.htm" width="100%" height="150" ></iframe>
+</div>
+</div> 
+</body>
+</html>

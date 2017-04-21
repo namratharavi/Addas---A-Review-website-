@@ -1,0 +1,87 @@
+<html>
+<head>
+<style>
+body{background-image:url('eateries homepage collage.jpg');background-size:100%}
+ #a{background-color: rgba(250,250,250,0.7);margin-left:150px;margin-right:150px;}
+ #a1{color:white;}
+ .about{font-family:arial;font-size:35px;border:3px solid white;background-color:#330033;color:white;text-align:center}
+ .content{font-size:25px;font-family:Comic Sans MS;}
+ .mars{font-size:20px;color:white;text-align:center;background-color:#333333;}
+ .picture{background-image:url('eateries homepage collage2.jpg');background-size:100%;width:975px;font-size:40px;color:black;text-align:center}
+ #anchor{border:4px solid white;background-color:white;text-align:center;font-size:35px;}
+ #h10{background-color:#330033;color:white;font-family:Comic Sans MS;padding:31.8pt;border-radius:10px;text-align:center;}
+</style>
+
+<script type="text/javascript">
+ count = 0;
+	
+ function loadimg()
+ {
+	img = document.getElementById("myimg");
+	img.width = 975;
+	img.height = 600;
+	i=setInterval(animate,2000);
+	
+ }
+
+function animate()
+{
+
+	img.src = "food" + count + ".jpeg";
+	count++;
+	if(count == 20)
+		{
+			count = 0;
+			//clearInterval(i);
+		}
+	
+}
+</script>
+<head>
+<body onload="loadimg()">
+<div id="a">
+<h1 id="h10">Eateries</h1>
+
+<table width="100%" height="40px">
+<tr>
+<td class="mars"><a id="a1" href="home.html" title="Home">Home</a></td>
+<td class="mars"><a id="a1" href="#about_food" title="About Us">About Us</a></td>
+<td class="mars"><a id="a1" href="#food" title="Eateries">Eateries</a></td>
+</tr>
+</table>
+<br/>
+
+<img id="myimg" src="food.jpg" alt="NO IMAGE HERE"/>
+
+<p class="about" id="about_food"> About Us </p>
+<p class="content"> If you love street food, then you should visit Bangalore. It is one of the famous cities in India after Mumbai to have the best street food which will make your mouth water just at the sight of it. Bangalore is a city of smart working professionals that know what they want, even when it comes to food. Value for money is key.</p>
+<p class="content">College students, who live life on the edge, love to experiment with different sorts of food. Bangalore famous street foods are affordable and reasonably priced for the young college going crowd. Though it isn't healthy, its sensational taste is what attracts the younger generation. </p>
+
+<p class="content">Having street food in Bangalore is a must try for all.We present to you a list of the best street food joints in Bangalore. So tuck in, foodies!</p>
+
+<table width="100%" align="center">
+<p class="about" id="food">Eateries</p>
+<tr class="picture" width="975px" height="650px">
+<td class="picture">
+<!--collage_picture--><h3 class="picture">If you are looking for that best place where you can hangout with the best food served in your plates!!<br/>Then you should definetly <br/><a href="street.html" id="anchor">click here</a></h3>
+</td>
+</tr>
+</table>
+<br/><br/>
+<footer>	
+<div class="extra">
+ <div id="footer">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="53%" align="left" valign="top">
+ <p class="copyright"><a href="home.html">Home</a>&nbsp;|&nbsp;<a href="#about_food" >About Us</a>&nbsp;|&nbsp;<a href="#food"> Eateries</a></p>
+  <p class="copyright">Copyrights &copy; 2016. All Rights Reserved.</p></td>
+    <td width="47%" align="right" valign="top">
+   
+   </div>
+</div>
+</footer>
+
+</div>
+</body>
+</html>

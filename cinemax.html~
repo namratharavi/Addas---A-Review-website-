@@ -1,0 +1,91 @@
+<html>
+<head>
+<title> CINEMAX </title>
+<style>
+#mar{margin-left:20px;margin-right:20px;}
+body{background-image:url("p.jpeg");background-attachment:fixed;background-repeat:no-repeat;background-size:100%}
+img{float:left;}
+h1{font-size:33px;background-color:#4d004c;color:white;padding:34.5pt;}
+h2{color:#4d004c;font-family:Verdana;font-size:34px;margin-left:50px;}
+h3{font-size:30px;color:#4d004c;font-family:Verdana;margin-left:50px;}
+p{color:#4d004c;font-family:Verdana;margin-left:50px;}
+a{color:red;font-family:Verdana;margin-left:70px;}
+#div{background-color:#4d004c;}
+#l1{color:white;}
+#div1{margin-left:100px;margin-right:100px;background-color: rgba(255,255,255,1);}
+#a1{color:white;}
+.mars{font-size:20px;color:white;text-align:center;background-color:#333333;}
+p{font-size:25px}
+#contact{font-size:34px}
+#about{font-size:34px}
+#link{font-size:25px}
+</style>
+
+</head>
+<body>
+
+<div id="mar">
+<img class="1" src="cinemax logo.png" height="20%" width="20%" ></img>
+<h1 align="center">CINEMAX</h1>
+</div>
+
+<table width="100%" height="40px">
+<tr>
+<td class="mars"><a id="a1" href="" title="Home">Home</a></td>
+<td class="mars"><a id="a1" href="" title="Malls">Malls</a></td>
+<td class="mars"><a id="a1" href="" title="Eateries">Eateries</a></td>
+<td class="mars"><a id="a1" href="" title="Gaming">Gaming</a></td>
+</tr>
+</table>
+<br/>
+
+<div id="div1">
+<br/>
+<br/>
+<table id="t1" border="4"align="center">
+<tr>
+<th>
+<img src="cinemax.jpg" ></img></th></tr></table>
+</br>
+<h2 id="about">ABOUT US</h2>
+<p>Cinemax is an Indian Cinema Chain with 138 screens across 39 properties in India including Nasik, Bangalore, Hyderabad, Allahabad, Indore, Bhopal, Mumbai and Kolkata. It was previously owned by the Kanakia group but later bought by Cine Hospitality Private Ltd, a subsidiary of PVR Cinemas.</p>
+
+<h2 align="center">CINEMAX</h2>
+<p class="p1">
+<table border="3" width="50%" align="center" >
+<tr>
+<th style="font-family:Comic Sans MS;font-size:15px;color:#4d004c;border-color:lime;">
+5th Floor,</br>
+Soul Space Arena,</br> 
+Doddanakundi,</br>
+Marathahalli Outer Ring Road,</br>
+Opposite EMC square,</br>
+Bengaluru,</br>
+Karnataka 560037.</br>
+</th></tr>
+</table>
+</br>
+<table border="3" width="50%" align="center">
+<tr><th style="font-family:Comic Sans MS;font-size:15px;color:4d004c;border-color:lime;">
+Central Mall,</br> 
+Outer Ring Road,</br>
+Bellandur,</br>
+Bengaluru,</br>
+Karnataka 560037.</br>
+</th>
+</tr>
+</table>
+</p>
+<br/>
+<h2 id="contact">Contact Us:</h2>
+<h3>For more information visit:</h3>
+<a id="link" href="http://www.cinemax.com">www.cinemax.com</a>
+</br>
+<br/>
+</div> 
+</br>   
+<div id="div1" >
+<iframe class="ifram" src="review.htm" width="100%" height="150" ></iframe>
+</div>    
+</body>
+</html> 

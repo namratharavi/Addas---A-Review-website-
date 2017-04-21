@@ -1,0 +1,121 @@
+<html>
+<head>
+<title> GOPALAN MALL </title>
+<style>
+#mar{margin-left:20px;margin-right:20px;}
+body{background-image:url("bg1.jpg");background-attachment:fixed;background-repeat:no-repeat;background-size:100%}
+img{float:left;}
+h1{font-size:33px;background-color:#000066;color:white;padding:34.5pt;}
+h2{font-size:34px;color:#000066;font-family:Verdana;margin-left:50px;}
+h3{font-size:30px;color:#000066;font-family:Verdana;margin-left:50px;}
+p.p1{color:#000066;font-family:Verdana;margin-left:50px;}
+li{color:#000066;font-family:Verdana;margin-left:50px;}
+a{color:red;font-family:Verdana;margin-left:70px;}
+#div{background-color:#000066;}
+#l1{color:white;}
+#div1{margin-left:100px;margin-right:100px;background-color: rgba(255,255,255,1);}
+table{border-color:#000066;}
+th{color:red;}
+td{color:#000066;}
+.mars{font-size:20px;color:white;text-align:center;background-color:#333333;}
+p{font-size:25px}
+#a1{color:white;}
+#contact{font-size:34px}
+#about{font-size:34px}
+#link{font-size:25px}
+li{font-size:25px}
+</style>
+
+</head>
+<body>
+
+<div id="mar">
+<img class="1" src="gopalan_logo.jpg" height="20%" width="24%" ></img>
+<h1 align="center"> GOPALAN MALL </h1>
+</div>
+
+<table width="100%" height="40px">
+<tr>
+<td class="mars"><a id="a1" href="home.html" title="Home">Home</a></td>
+<td class="mars"><a id="a1" href="cinema1_homepage.html" title="Cinemas">Cinemas</a></td>
+<td class="mars"><a id="a1" href="eateries_homepage.html" title="Eateries">Eateries</a></td>
+<td class="mars"><a id="a1" href="gaming.html" title="Gaming">Gaming</a></td>
+</tr>
+</table>
+<br/>
+
+<div id="div1">
+<br/>
+<br/>
+<table id="t1" border="4"align="center" width="50%" height="20%">
+<tr>
+<th>
+<img src="gopalan_mall.jpg" height="100%" width="100%"></img></th></tr></table>
+</br>
+<h2 id="about">ABOUT US</h2>
+<p class="p1">Gopalan Enterprises, inspired by life - built on trust - was founded in 1984 by its Chairman, Architect C. Gopalan, and being successfully run along with his sons Architect C. Pramod and Architect C. Prabhakar with the objective of developing and constructing value added residential and commercial spaces in Bangalore.</p>
+</br>
+<p class="p1">Gopalan believes in deriving real value for money, whether it is residential or retail destination. The ultra-modern glass structure has a retail space of over two lakh square feet spread over multiple floors. Gopalan Malls house 2 Screens Multiplex, Fine Dining area, a Food Court with Entertainment Zone,Children Play Area, Hypermarket and Retail Brands show rooms.<p>
+</br>
+<p class="p1">Malls :
+ <ol>
+	<li>ARCADE MALL</li>
+	<li>SIGNATURE MALL</li>
+	<li>INNOVATION MALL</li>
+ </ol>
+</p>
+</br>
+
+<h3> Contact Us: </h3>
+</br>
+<table border="3" width="100%">
+<tr>
+	<th align="center">Gopalan Arcade Mall</th>
+	<th align="center">Gopalan Signature Mall</th>
+	<th align="center">Gopalan Innovation Mall</th>
+</tr>
+<tr>
+<td align="center">
+No.2/18, Mysore Road,</br>
+RR Nagar,</br>
+Bengaluru, Karnataka 560098</br>
+</br>
+Phone No : 080 2860 2945</br>
+</br>
+Email id : arcadeaccounts@gopalanenterprises.com</br>
+</td>
+<td align="center">
+Swamy Vivekananda Rd,</br>
+Rahat Bagh,</br>
+Nagavarapalya,</br>
+Bennigana Halli,</br>
+Bengaluru, Karnataka 560093</br>
+</br>
+Phone No : 080 2524 6246</br>
+</br>
+Email id : gst@gopalanmall.com
+</td>
+<td align="center">
+Near-Mico Checkpost,</br>
+Bannerghatta Main Rd,</br>
+Bengaluru, Karnataka 560076</br>
+</br>
+Phone No : 080 2658 0566</br>
+</br>
+Email id : innovationmall@gopalanenterprises.com</br>
+</td>
+</tr>
+</table>
+<h3>For more information visit:</h3>
+<a  id="link" href="http://www.gopalanmall.com">www.gopalanmall.com</a>
+</br>
+</br>
+</br>
+</br>
+</div>
+</br>   
+<div id="div1" >
+<iframe class="ifram" src="review.htm" width="100%" height="150" ></iframe>
+</div>          
+</body>
+</html>

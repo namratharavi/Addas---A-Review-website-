@@ -1,0 +1,104 @@
+<html>
+<head>
+<style>
+body{background-image:url('cinemas collage.jpg');background-size:100%; background-attachment:fixed;}
+ #a{background-color: rgba(250,250,250,0.7);margin-left:150px;margin-right:150px;}
+ #a1{color:white;}
+ .multiplex{font-family:Comic Sans MS;font-size:35px;border:3px solid white;background-color:#330033;color:white;text-align:center}
+ .about{font-family:Comic Sans MS;font-size:35px;border:3px solid white;background-color:#330033;color:white;text-align:center}
+ .content{font-size:25px;font-family:Comic Sans MS;font-size:20px;}
+ .mars{font-size:20px;color:white;text-align:center;background-color:#333333}
+ .mars:hover{color:black}
+  #h10{background-color:#330033;color:white;font-family:Comic Sans MS;padding:31.8pt;border-radius:10px;text-align:center;}
+  .bnrs2{ width:975px; overflow:hidden; margin-bottom:22px;}
+  .bnrs2 div{float:left;}
+  #dimage{text-align:center}
+</style>
+
+<script type="text/javascript">
+ count = 0;
+	
+ function loadimg()
+ {
+	img = document.getElementById("myimg");
+	img.width = 800;
+	img.height = 500;
+	i=setInterval(animate,2000);
+	
+ }
+
+function animate()
+{
+
+	img.src = "mo" + count + ".jpeg";
+	count++;
+	if(count == 11)
+		{
+			count = 0;
+			//clearInterval(i);
+		}
+	
+}
+</script>
+
+<head>
+<body onload="loadimg()">
+<div id="a">
+<h1 id="h10">Cinemas</h1>
+<table width="975px" height="40px">
+<tr>
+<td class="mars"><a id="a1" href="home.html" title="Home">Home</a></td>
+<td class="mars"><a id="a1" href="#about_cinemas" title="About Us">About Us</a></td>
+<td class="mars"><a id="a1" href="#cinemas" title="Cinemas">Cinemas</a></td>
+</tr>
+</table>
+
+<br/>
+<div id="dimage">
+<img id="myimg" src="mo.jpeg" height="500" width="800" alt="NO IMAGE HERE"/>
+</div>
+
+<p class="about" id="about_cinemas"> About Us </p>
+<p class="content">Bangalore has joined the band of cities that boast of high tech modern theatres for total entertainment pleasure. The newest Malls all house the best theatres that one would expreince in New York or Los Angeles.</p>
+<p class="content"> One of the popular means of entertainment in Bangalore comprises of the numerous movie theaters and multiplexes dotting the city. Infact, Bangalore was one of the first cities where the concept of multiplexes was introduced. Most of the movie theaters in Bangalore have restaurants situated nearby, thus offering the complete entertainment package for the entire day.  </p>
+
+
+
+<table id="cinemas">
+<caption class="multiplex"> Multiplexes </caption>
+<tr>
+
+<td><a href="cinemax.html"><img src="cinemax.jpg" title="cinemax" width="320px" height="250px" />
+</a></td>
+<td><a href="cinepolis.html"><img src="cinepolis.JPG" title="cinepolis" width="320px" height="250px" />
+</a></td>
+<td><a href="fun.html"><img src="fun cinemas.jpg" title="fun cinemas" width="320px" height="250px" />
+</a></td>
+
+</tr>
+<tr>
+
+<td><a href="pvr.html"><img src="pvr.jpg" title="pvr" width="320px" height="250px" />
+</a></td>
+<td><a href="inox.html"><img src="inox.jpg" title="inox" width="320px" height="250px" />
+</a></td>
+<td><a href="urvashi.html"><img src="urvashi.jpg" title="urvashi" width="320px" height="250px" />
+</a></td>
+
+</tr>
+</table>
+<br/>
+<br/>
+
+ </div>
+<div id="a">
+<table   margin-left="150px" margin-right="150px"  width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="53%" valign="top">
+ <p class="copyright"><a href="home.html">Home</a>&nbsp;|&nbsp;<a href="#about_cinemas" >About Us</a>&nbsp;|&nbsp;<a href="#cinemas"> Cinemas</a></p>
+  <p class="copyright">Copyrights &copy; 2015. All Rights Reserved.</p></td>
+    <td width="47%" align="right" valign="top">
+
+</div>
+</body>
+</html>

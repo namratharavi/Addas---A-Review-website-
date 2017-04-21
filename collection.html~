@@ -1,0 +1,84 @@
+<html>
+<head>
+<title> COLLECTION UB CITY MALL </title>
+<style>
+#mar{margin-left:20px;margin-right:20px;}
+body{background-image:url("bg1.jpg");background-attachment:fixed;background-repeat:no-repeat;background-size:100%}
+img{float:left;}
+h1{font-size:33px;background-color:#000066;color:white;padding:34.5pt;}
+h2{font-size:34px;color:#000066;font-family:Verdana;margin-left:50px;}
+h3{font-size:30px;color:#000066;font-family:Verdana;margin-left:50px;}
+p{color:#000066;font-family:Verdana;margin-left:50px;}
+a{color:red;font-family:Verdana;margin-left:70px;}
+#div{background-color:#000066;}
+#l1{color:white;}
+#div1{margin-left:100px;margin-right:100px;background-color: rgba(255,255,255,1);}
+.mars{font-size:20px;color:white;text-align:center;background-color:#333333;}
+p{font-size:25px}
+#a1{color:white;}
+#contact{font-size:34px}
+#about{font-size:34px}
+#link{font-size:25px}
+
+</style>
+</head>
+<body>
+
+<div id="mar">
+<img class="1" src="collection logo.jpg" height="20%" ></img>
+<h1 align="center">COLLECTION UB CITY MALL</h1>
+</div>
+
+<table width="100%" height="40px">
+<tr>
+<td class="mars"><a id="a1" href="home.html" title="Home">Home</a></td>
+<td class="mars"><a id="a1" href="cinema1_homepage.html" title="Cinemas">Cinemas</a></td>
+<td class="mars"><a id="a1" href="eateries_homepage.html" title="Eateries">Eateries</a></td>
+<td class="mars"><a id="a1" href="gaming.html" title="Gaming">Gaming</a></td>
+</tr>
+</table>
+<br/>
+
+
+<div id="div1">
+<br/>
+<br/>
+<table id="t1" border="4"align="center">
+<tr>
+<th>
+<img src="collection mall.jpg" ></img></th></tr></table>
+</br>
+<h2 id="about">ABOUT US</h2>
+<p>Centrally located in the CBD (Central Business District) of Bangalore on Vittal Mallya Road, UB City is just 1.5kms away from the MG Road - Brigade Road junction. With a total built up area of 16 lakh sqft., </p><p>UB City is completed by the UB Tower, Kingfisher Plaza, Concorde, Canberra & Comet Blocks! Each of these blocks stand out for their distinctive look, while yet combining to produce the feeling of a city. UB City also boasts of the largest Triple Level Puzzle Parking system that houses close to 1600 Cars.</p>
+</br>
+
+<h2 align="center">COLLECTION UB CITY</h2>
+<p class="p1">
+<table border="3" width="50%" align="center" >
+<tr>
+<th style="font-family:Comic Sans MS;font-size:15px;color:#4d004c;border-color:lime;">
+# 24, Vittal Mallya Road</br>
+Bangalore - 560 001</br>
+</br>
+Phone No:</br> 
++91 97316 00994</br>
++91 80 2271 1488  </br>
+</th></tr>
+</table>
+</p>
+</br>
+
+<h2 id="contact">Contact Us:</h2>
+<h3>For more information visit:</h3>
+<a id="link" href="www.collectionubcity.com">www.collectionubcity.com</a>
+</br>
+<br/>
+</div> 
+</br>  
+
+</br>   
+<div id="div1" >
+<iframe class="ifram" src="review.htm" width="100%" height="150" ></iframe>
+</div>     
+</body>
+</html>

@@ -1,0 +1,110 @@
+<html>
+<head>
+<style>
+body{background-image:url("gaming homepage collage.jpg");background-attachment:fixed;background-size:100%;}
+ #a{background-color: rgba(250,250,250,0.7);margin-left:150px;margin-right:150px;}
+ #a1{color:white;}
+ #about{font-family:Comic Sans MS;font-size:35px;border:3px solid white;background-color:#330033;color:white;text-align:center}
+ .content{font-size:25px;font-family:Comic Sans MS}
+ .mars{font-size:20px;color:white;text-align:center;background-color:#333333}
+ .mars:hover{color:black}
+ .picture{background-image:url('file:///home/navya-shravya/website/domain_homepage.html/home_pagefood/logo.jpeg');background-size:100%;width:975px;font-size:40px;color:white;text-align:center}
+ #anchor{border:4px solid white;background-color:white;text-align:center;font-size:35px;}
+ #h10{background-color:#330033;color:white;font-family:Comic Sans MS;padding:31.8pt;border-radius:10px;text-align:center;}
+ table{border-color:#330033;border-radius:10px;}
+ h3{font-size:40px;}
+ #th{font-size:24px}
+</style>
+
+<script type="text/javascript">
+ count = 0;
+	
+ function loadimg()
+ {
+	img = document.getElementById("myimg");
+	img.width = 975;
+	img.height = 600;
+	i=setInterval(animate,2000);
+	
+ }
+
+function animate()
+{
+
+	img.src = "game" + count + ".jpg";
+	count++;
+	if(count == 8)
+		{
+			count = 0;
+			//clearInterval(i);
+		}
+	
+}
+</script>
+
+<head>
+<body onload="loadimg()">
+<div id="a">
+<h1 id="h10">Go Gaming</h1>
+
+<table width="100%" height="50px">
+<tr>
+<td class="mars"><a id="a1" href="home.html" title="Home">Home</a></td>
+<td class="mars"><a id="a1" href="#about" title="About Us">About Us</a></td>
+<td class="mars"><a id="a1" href="#game" title="Game">Gaming Centers</a></td>
+</tr>
+</table>
+<br/>
+
+<img id="myimg" src="game.jpg" alt="NO IMAGE HERE"/>
+
+<p id="about" id="about_game"> About Us </p>
+<p class="content"> A great holiday with family is where you can spend quality time with them, having fun along the way. Gaming centers like Gokarting, Go bowling, Laser tag etc., are some options in Bangalore that offer great outings filled with fun for the entire family. </p>
+<p class="content">These gaming centers are not specific to any age group. So, its a great place for family to spend time. Students who are very passionate about gaming choose such places as their favorite hangout spots.</p>
+
+<table id="game"width="100%" align="center">
+<tr><td><p class="about" id="game">Go Gaming</p></td></tr>
+<tr><td>
+<table border="5" width="100%">
+<tr height="40px">
+<th align="center"></th>
+<th id="th" align="center">Gaming centers</th>
+</tr>
+<tr>
+<td align="center" width="300px" height="200px"><a href="gk.html"><img src="gokartinglogo.jpeg" width="100%" height="100%" /></a></td>
+<td align="center">
+ <p><a href="gk.html"><h3>Go karting</h3></a>
+</p></td>
+</tr>
+<tr>
+<td align="center"width="300px" height="200px"><a href="gb.html"><img src="1.jpg" width="100%" height="100%" /></a></td>
+<td align="center">
+<p><a href="gb.html"><h3>Go bowling</h3></a>
+</p></td>
+</tr>
+<tr>
+<td align="center"width="300px" height="200px"><a href="lt.html"><img src="laser.jpg" width="100%" height="100%" /></a></td>
+<td align="center">
+<p><h3>Laser Tag</h3>
+</p></td>
+</tr>
+</table>
+</td></tr>
+</table>
+<br/><br/>
+<footer>	
+<div class="extra">
+ <div id="footer">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="53%" align="left" valign="top">
+ <p class="copyright"><a href="home.html">Home</a>&nbsp;|&nbsp;<a href="#about"> About us</a>&nbsp;|&nbsp;<a href="#game"> Gaming centers</a></p>
+  <p class="copyright">Copyrights &copy; 2016. All Rights Reserved.</p></td>
+    
+   </div>
+</div>
+</footer>
+
+</div>
+</body>
+</html>

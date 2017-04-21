@@ -1,0 +1,150 @@
+<html>
+<head>
+<title>Go karting </title>
+<style>
+ #mar{margin-left:20px;margin-right:20px;}
+ body{background-image:url("bg.jpg"); background-attachment:fixed;background-repeat:no-repeat;background-size:100%;}
+ .content{font-size:20px;font-family:Comic Sans MS;}
+ #h10{background-color:#006600;color:white;font-family:Comic Sans MS;padding:35pt;border-radius:10px;text-align:center;}
+ #h11{color:#e60000;font-family:Comic Sans MS;font-size:20pt;}
+ img{float:left;}
+ hr{border-radius:10px;color:#006600;padding:4pt;background-color:#006600;border-color:#e60000;}
+ #a{background-color: rgba(255,255,255,0.6);margin-left:150px;margin-right:150px;}
+ table{border-color:#006600;border-radius:10px;}
+ h3{color:#e60000;font-size:25px}
+ .about{font-size:20px;font-family:Comic Sans MS;}
+ .name1{background-color:#006600;padding:10pt;color:white;text-align:center;}
+ #a1{color:white;}
+.mars{font-size:20px;color:white;text-align:center;background-color:#333333;}
+#div1{margin-left:50px;margin-right:50px;background-color: rgba(255,255,255,1);}
+</style>
+</head>
+<body>
+<div id="mar">
+ <img src="gkl.jpg" alt="go karting" width="20%" height="20%"></img>
+ <h1 id="h10"> Go Karting </h1>
+</div>
+  <table width="100%" height="40px">
+<tr>
+<td class="mars"><a id="a1" href="" title="Home">Home</a></td>
+<td class="mars"><a id="a1" href="" title="Malls">Malls</a></td>
+<td class="mars"><a id="a1" href="" title="Cinemas">Cinemas</a></td>
+<td class="mars"><a id="a1" href="" title="Eateries">Eateries</a></td>
+</tr>
+</table>
+
+ 
+ <div id="a">
+ 
+ <p class="content">What does one know about Bangalore? Clubbing, Shopping and IT? Well,Go karting is the most under-rated activity of Bangalore. Masses think that it happens only in NCR which isn't. Go karting is a small four wheeler vehicle which comes in various shapes and sizes. It is most like-able by adventurous people.
+ <br/>
+ <br/>
+
+Here is a list of Go karting places in Bangalore. To guide you next time you visit the Silicon Plateau.</p>
+ 
+ <table border="5" width="100%">
+ 
+ <tr>
+ <th align="center">Go Karting Centres</th>
+ <th align="center">Details</th>
+ </tr>
+ 
+ <tr>
+ <td align="center"><a href="#playarena"><img src="play_arena.jpg" width="100%"  height="100%" title="Play arena" /></a></td>
+ <td align="center">
+ <a href="#playarena"> <p><h3 >PLAY ARENA</h3></a>
+ Address: No.75, Off Sarjapur Main Rd, Central Jail road ,Kasavanahalli, Bangalore.
+ </p></td>
+ </tr>
+ 
+ <tr>
+ <td align="center"><a href="#patels_inn" ><img src="patelinn.jpg" width="100%" height="100%" title="Patel's Inn" /></a></td>
+ <td align="center">
+ <a href="#patels_inn"><p><h3 >PATEL'S INN</h3></a>
+ Address: 1, 15th Cross, 2nd Block, Govindaraj Garden, R.T Nagar, Bengaluru, Karnataka 560032
+ </p></td>
+ </tr>
+ 
+ <tr>
+ <td align="center"><a href="#racewaymotor"><img src="raceway.jpg" width="100%" height="350px" title="Raceway motor sports" /></a></td>
+ <td align="center">
+ <a href="#racewaymotor"><p><h3 >RACEWAYMOTOR SPORTS</h3></a>
+ Address: Survey No. 24, Kanakapura Main Road, Near Kaggalipura, Pattareddypalya, Bengaluru
+ </p></td>
+ </tr>
+ 
+ <tr>
+ <td align="center"><a href="#grips"><img src="grips1.jpg" width="100%" height="100%" title="Grips Gokarting And Bowling" /></a></td>
+ <td align="center">
+ <a href="#grips"><p><h3 >GRIPS GOKARTING AND BOWLING</h3></a>                                            
+ Address: Sy.No:68, Anchepalya Mysore Road, Bengaluru
+ </p></td>
+ </tr>
+ </table>
+ <br/>
+ </div>
+ </br>
+ <div id="a">
+<h3 class="name1" id="playarena">PLAY ARENA</h3>
+<table border="2" width="100%" style="border-color:#006600"><tr><th><img src="play_arena.jpg" width="100%"  height="100%" title="Play arena" /><br/></th></tr></table>
+<p class="about">Play arena in Bangalore is one of its own kind. It has a lot to offer. Right from indoor to outdoor games. There are "Go karting" carts which is the major attractive thing. The colourful carts and enthusiasm of the visitors are very much evident. <br/></br>
+
+Address: No.75, Off Sarjapur Main Rd, Central Jail road ,Kasavanahalli, Bangalore.<br/></br>
+Timings: 10.30 am-10 pm on all days<br/></br>
+Cost: Mon-Thurs 150 Rs for 6 laps, Fri-Sun 200 Rs for 6 laps<br/></br>
+Contact: 08033083048<br/></br>
+Track Length: 200 meters</p>
+</br>
+</div>
+</br>
+<div id="a">
+<h3  class="name1" id="patels_inn">PATEL'S INN</h3>
+<table border="2" width="100%" style="border-color:#006600"><tr><th>
+<img src="patelinn.jpg" width="100%" height="100%"  title="Patel's Inn" /><br/></th></tr></table>
+<p class="about">Imagine you are sitting in a very spacious room with all kinds of luxuries beside you.
+Suddenly something grabs your attention. The kart often does it in Patel's Inn. Situated in the suburban area Patel's inn is very impressive. The staffs and the workers are too helpful for new ones to experience it. <br/></br>
+
+Address: 1, 15th Cross, 2nd Block, Govindaraj Garden, R.T Nagar, Bengaluru, Karnataka 560032<br/></br>
+Timings: Mon-Fri 11 am - 9.30 pm, Sat-Sun 11 am - 10.30 pm<br/></br>
+Cost: Mon-Fri 120 Rs for 7 laps, Sat-Sun 120 Rs. for 6 laps<br/></br>
+Contact: 08023337676<br/></br>
+Track Length: 450 meters</p>
+</br>
+</div>
+</br>
+<div id="a">
+<h3  class="name1" id="racewaymotor">RACEWAYMOTOR SPORTS</h3>
+<table border="2" width="100%" style="border-color:#006600"><tr><th>
+<img src="raceway.jpg" width="100%" height="100%"  title="Raceway motor sports"/><br/></th></tr></table>
+<p class="about">Raceway motorsports is probably the most emerging in India. The amazing environment, affluent racecourse and professional staffs has made it the most enjoyable sport. Go karting is their specialty. It is very pocket-friendly. Enjoyed by every age group. It is a must visit both for locals and visitors.<br/></br>
+
+Address: Survey No. 24, Kanakapura Main Road, Near Kaggalipura, Pattareddypalya, Bengaluru<br/></br>
+Timings: Tue-Sun 10 am-7 pm, Closed on Monday<br/></br>
+Cost: 250 Rs for 10 laps on all days<br/></br>
+Contact: 09901594854<br/></br>
+Track Length: 350 meters</p>
+</br>
+</div>
+</br>
+<div id="a">
+<h3  class="name1" id="grips">GRIPS GOKARTING AND BOWLING</h3>
+<table border="2" width="100%" style="border-color:#006600"><tr><th>
+<img src="grips1.jpg" width="100%" height="100%" title="Grips Gokarting And Bowling"  /><br/></th></tr></table>
+<p class="about">The fusion sounds great. Isn't it? The place is the epitome of ambience and fun. It has more than 40 karts available with multiple tracks. Horror and excitement works simultaneously with each other. It holds the pride of bringing number of visitors.<br/></br>
+
+Address: Sy.No:68, Anchepalya Mysore Road, Bengaluru<br/></br>
+Timings: Mon-Fri 10.30 am-6.30 pm, Sat-Sun 10.30 am-8.30 pm<br/></br>
+Cost: 180 Rs. for laps on all days<br/></br>
+Contact: 09845589835<br/></br>
+Track Length: 500 meters</p>
+</br>
+</div>
+</br>
+</br>
+<div id="a">		
+<div id="div1" >
+<iframe class="ifram" src="review.htm" width="100%" height="150" ></iframe>
+</div>
+</div> 
+</body>
+</html>
